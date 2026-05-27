@@ -1,0 +1,4 @@
+    Durante este semestre, aprendi Python e a utilizar plataformas como Git, VS Code e Bitsy. Além disso, 
+aprendi vários assuntos, como integral e derivada em Matemática para Computação. Também aprendi HTML, C++,
+JavaScript básico e Arduino. Além de tudo isso, conheci diferentes caminhos profissionais e aprendi sobre 
+Comunicação Não Violenta.
